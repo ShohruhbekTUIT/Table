@@ -1,0 +1,14 @@
+.jadval {
+  border-collapse: collapse;
+  font-size: 20px;
+}
+
+.jadval__title, .jadval__data {
+  border: 2px solid black;
+  text-align: center;
+  vertical-align: middle;
+  padding: 15px;
+}
+
+/* No CSS */
+/*# sourceMappingURL=main.css.map */
